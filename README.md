@@ -1,4 +1,4 @@
-# 🌟 **Tourism Footfall Prediction using Internet Search Data**🌟
+# 🌟 **Tourism Footfall Prediction using Internet Data**🌟
 
 Welcome to the **Tourism Prediction Repository**! This repository leverages advanced time series forecasting and machine learning techniques to predict the number of tourists visiting Shimla, India, based on historical tourist data and internet search trends.
 
@@ -56,14 +56,15 @@ This project is part of the Open IIT Data Analytics initiative, focusing on enha
 
 ## 🎨 **Visual Enhancements**
 
-### **Heatmap of Feature Correlations**
-![Heatmap](path/to/heatmap.png)
 
-### **Tourist Arrivals vs. Search Trends**
-![Search Trends](path/to/search_trends.png)
+![Heatmap](./1.jpeg)
+![Heatmap](./2.jpeg)
+![Heatmap](./3.jpeg)
+![Heatmap](./4.jpeg)
+![Heatmap](./5.jpeg)
 
-### **Model Predictions vs. Actual Values**
-![Predictions](path/to/predictions.png)
+
+
 
 ---
 
