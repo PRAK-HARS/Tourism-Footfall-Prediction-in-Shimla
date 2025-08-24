@@ -95,7 +95,6 @@ Clone this repository:
 ---
 
 ## 📥 **Contact**
-- **Email**: prakhar@example.com
 - **GitHub**: [Prakhar Singh](https://github.com/PRAK-HARS)
 - **LinkedIn**: [Prakhar Singh](https://www.linkedin.com/in/prakhar-singh-a6a60321b/)
 
